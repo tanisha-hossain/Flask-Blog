@@ -36,13 +36,13 @@ posts = [
         'author': 'Tanisha Hossain',
         'title': 'Blog Post 1',
         'content': 'First post content',
-        'date_posted': '2024-07-25 22:18:00.000000'
+        'date_posted': '2024-06-25 22:18:00.000000'
     },
     {
         'author': 'Tameem Hossain',
         'title': 'Blog Post 2',
         'content': 'Second post content',
-        'date_posted': '2024-07-20 10:12:00.000000' 
+        'date_posted': '2024-06-20 10:12:00.000000' 
     }
 ]
 
